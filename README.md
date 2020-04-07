@@ -3,11 +3,13 @@
 
 #### Pour rechercher un volontaire
 Vous avez une projet et vous avez besoin d'aide pour : le développer, le mettre en ligne ou le maintenir.
-- Première étape : ouvrir une issue afin de demander le référencement de votre projet ici
+- Première étape : ouvrir une issue labélisée "Nouveau Projet" afin de demander le référencement de votre projet ici
 
 TEMPLATE (à suivre pour proposer votre projet):
 ```
-Titre : [1 ligne qui décrit le projet. Par exemple : "Outil contributif visant à ..."]
+Titre :
+
+# [1 ligne qui décrit le projet. Par exemple : "Outil contributif visant à ..."]
 
 Product Owner : [Nom du contact principal du projet]
 
