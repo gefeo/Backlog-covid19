@@ -1,4 +1,4 @@
-# Backlog-covid19
+# Backlog d'Open Covid19
 ## Gestion des tâches, matching volontaires/projets
 
 #### Pour rechercher un volontaire
