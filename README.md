@@ -3,7 +3,7 @@
 
 #### Pour rechercher un volontaire
 Vous avez une projet et vous avez besoin d'aide pour : le développer, le mettre en ligne ou le maintenir.
-- Première étape : ouvrir une issue labélisée "Nouveau Projet" afin de demander le référencement de votre projet ici
+- Étape préalable (à ne faire qu'une fois) : ouvrir une issue labélisée "Nouveau Projet" afin de demander le référencement de votre projet en suivant le template ci-dessous:
 
 TEMPLATE (à suivre pour proposer votre projet):
 ```
@@ -42,7 +42,8 @@ Outils utilisés :
 
 Licence: [exemple: MIT, GPLv3, etc.]
 ```
-- Seconde étape : publier vos tâches et vos demandes d'aide en les rattachant à votre projet. **[Soyez très clair sur l'objectif de la tâche que vous proposez!](https://fr.wikipedia.org/wiki/Objectifs_et_indicateurs_SMART)**
+  - Étape suivante : publier vos tâches et vos demandes d'aide en les rattachant à votre projet.
+  **[Soyez très clair sur l'objectif de la tâche que vous proposez!](https://fr.wikipedia.org/wiki/Objectifs_et_indicateurs_SMART)**
 
 #### Pour participer à un projet en particulier
 Vous aimez un projet, vous souhaitez participer.
